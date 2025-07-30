@@ -41,4 +41,4 @@ async def iklim_foto(ctx):
             picture = discord.File(f)
     await ctx.send(file=picture)
 
-bot.run("MTM5MjU0NTc3NzM4OTQwODM5OA.GHNAm7.Cx_NLvIIygFDZ4PysxZ9RMZKQ-vSgogQRA09jM")
+bot.run("..")
